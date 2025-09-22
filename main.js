@@ -56,5 +56,5 @@ function eraseContent(event) {
     }
 }
 
-// Adiciona o ouvinte de evento ao contêiner pai, não a cada ícone individualmente
+// Adiciona o ouvinte de evento ao container pai, não a cada ícone individualmente
 itensAdicionados.addEventListener('click', eraseContent);
