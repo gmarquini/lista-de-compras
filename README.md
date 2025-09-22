@@ -14,3 +14,5 @@ HTML5 & CSS3: Estrutura e estilização da interface, incluindo a utilização d
 - Delegação de Eventos: Aplicação do conceito de delegação de eventos, utilizando event.target.closest() para gerenciar eficientemente a remoção de múltiplos itens, o que demonstra um conhecimento em otimização de performance e código escalável.
 
 - Git & GitHub: Controle de versão e hospedagem do projeto.
+
+![alt text](<assets/image/Screenshot from 2025-09-22 09-19-19.png>)
